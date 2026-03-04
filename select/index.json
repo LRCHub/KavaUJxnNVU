@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ss",
+  "base_artist": "Ken Carson",
+  "createdAt": "2026-03-04T10:24:44.030849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (feat. Rowdy SS) (Live From Hell 13)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/01_Atari_Teenage_Riot_(feat._Rowdy_SS)_(Live_From_Hell_13)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Werewolf Women Of The SS",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/02_Werewolf_Women_Of_The_SS_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "N.Ss",
+      "artist": "Naio Ssaion",
+      "has_synced": false,
+      "path": "select/03_N.Ss_Naio_Ssaion.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SS In Uruguay",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/04_SS_In_Uruguay_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ss-3",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/05_Ss-3_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here Ss My Heart",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/06_Here_Ss_My_Heart_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "K-I-SS-I-N-G",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/07_K-I-SS-I-N-G_Nas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "K‐I‐SS‐I‐N‐G",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/08_K‐I‐SS‐I‐N‐G_Nas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SS San Francisco (feat. Zelooperz)",
+      "artist": "Injury Reserve feat. Zelooperz",
+      "has_synced": true,
+      "path": "select/09_SS_San_Francisco_(feat._Zelooperz)_Injury_Reserve_feat._Zelooperz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SS San Francisco (feat. ZelooperZ)",
+      "artist": "Injury Reserve",
+      "has_synced": true,
+      "path": "select/10_SS_San_Francisco_(feat._ZelooperZ)_Injury_Reserve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Finger the Money (ft. Warhol.ss)",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/11_Finger_the_Money_(ft._Warhol.ss)_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SS San Francisco",
+      "artist": "Injury Reserve",
+      "has_synced": true,
+      "path": "select/12_SS_San_Francisco_Injury_Reserve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SS In Uruguay",
+      "artist": "Julien Doré",
+      "has_synced": true,
+      "path": "select/13_SS_In_Uruguay_Julien_Doré.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ss Decompressed",
+      "artist": "Pet Symmetry",
+      "has_synced": false,
+      "path": "select/14_Ss_Decompressed_Pet_Symmetry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ss",
+      "artist": "Ken Carson",
+      "has_synced": false,
+      "path": "select/pl_01_ss_Ken_Carson.txt"
+    }
+  ]
+}
